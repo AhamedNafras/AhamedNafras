@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="./gif/kaiber.gif" width="600" alt="XPro NightHawk banner">
+  <img src="https://raw.githubusercontent.com/AhamedNafras/AhamedNafras/main/gif/kaiber.gif" width="600" alt="XPro NightHawk banner">
 </p>
+
 
 
 ---
