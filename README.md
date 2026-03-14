@@ -14,10 +14,11 @@
 
 ---
 
-# 🎮 Player Profile
+# 🎮 My Profile
 
 ```yaml
 Name: Ahamed Nafras
+IGN: XPro NightHawk
 Role: Computer Engineering Student
 Focus: Machine Learning, Networking, Full Stack Development
 Passion: Building cool tech, solving problems, and gaming
@@ -141,7 +142,7 @@ Status: Grinding skills daily
 
 ---
 
-# 🎧 Gaming Motto
+# 🎧 Motto
 
 <p align="center">
 
