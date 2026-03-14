@@ -1,75 +1,25 @@
-<!-- Animated Header -->
-
+<!-- Cyberpunk / Gaming Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=LEVEL%20UP%20MY%20PROFILE&fontSize=42&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=00ffe0&animation=fadeIn" />
 </p>
 
 <!-- Typing Animation -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ahamed+Nafras;AI+Developer;Computer+Engineering+Student;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ahamed+Nafras;Computer+Engineering+Student;Machine+Learning+%26+Networking+Enthusiast;Full+Stack+Learner;Gamer+%7C+Builder+%7C+Problem+Solver" />
+</p>
+
+<!-- Gaming / Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🎮 Player Profile
 
-* 🎓 Computer Engineering Student
-* 🤖 Interested in **Machine Learning & Networking**
-* 🌱 Currently learning **Full Stack Development**
-* 🚀 Passionate about building cool tech & video games
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="#"><img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/ahamed-nafras/)"></a>
-<a href="#"><img src="[https://img.shields.io/badge/Facebook-Blue?style=for-the-badge&logo=instagram](https://www.facebook.com/ahamed.nafras.2025)"></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"></a>
-</p>
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,mysql,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=onedark"/>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
-</p>
+```yaml
+Name: Ahamed Nafras
+Role: Computer Engineering Student
+Focus: Machine Learning, Networking, Full Stack Development
+Passion: Building cool tech, solving problems, and gaming
+Status: Grinding skills daily
