@@ -90,13 +90,12 @@ Status: Grinding skills daily
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AhamedNafras&theme=algolia&no-frame=true&no-bg=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=AhamedNafras&theme=matrix&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
+
 
 ---
 
