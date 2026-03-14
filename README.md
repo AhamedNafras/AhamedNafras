@@ -10,7 +10,7 @@
 
 <p align="center">
 
-<img src="https://media.githubusercontent.com/media/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img src="gif/kaiber.gif" width="600">
 </p>
 
 </p>
