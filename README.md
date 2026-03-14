@@ -113,7 +113,7 @@ Status: Grinding skills daily
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/AhamedNafras/AhamedNafras/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/AhamedNafras/AhamedNafras/output/snake-dark.svg">
 
 </p>
 
