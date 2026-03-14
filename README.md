@@ -15,17 +15,17 @@
 ## 👨‍💻 About Me
 
 * 🎓 Computer Engineering Student
-* 🤖 Interested in **AI & Machine Learning**
+* 🤖 Interested in **Machine Learning & Networking**
 * 🌱 Currently learning **Full Stack Development**
-* 🚀 Passionate about building cool tech
+* 🚀 Passionate about building cool tech & video games
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"></a>
+<a href="#"><img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/ahamed-nafras/)"></a>
+<a href="#"><img src="[https://img.shields.io/badge/Facebook-Blue?style=for-the-badge&logo=instagram](https://www.facebook.com/ahamed.nafras.2025)"></a>
 <a href="#"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"></a>
 </p>
 
