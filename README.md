@@ -16,7 +16,7 @@
 
 ---
 
-# 🎮 My Profile
+# 🎮 My  Profile
 
 ```yaml
 Name: Ahamed Nafras
