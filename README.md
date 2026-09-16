@@ -102,6 +102,8 @@ I'm a Computer Engineering undergraduate at the **University of Jaffna**, and co
   <sub>Thanks for stopping by — always open to connect and collaborate.</sub>
 </p>
 
+#edit
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhamedNafras&label=Profile%20Views&color=6C63FF&style=flat-square"/>
 </p>
@@ -109,3 +111,5 @@ I'm a Computer Engineering undergraduate at the **University of Jaffna**, and co
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f3460,50:16213e,100:1a1a2e"/>
 </p>
+
+<!--  donot edit                                                       -->
